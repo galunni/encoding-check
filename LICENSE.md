@@ -1,7 +1,7 @@
 The MIT License (MIT)
 ===
 
-Copyright (c) {{{year}}} {{{fullname}}}
+Copyright (c) 2014 Giovanni Alunni
 ---
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
