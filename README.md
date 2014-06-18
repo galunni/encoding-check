@@ -1,5 +1,4 @@
-encoding-check
-encoding-finder.perl
+encoding-check/encoding-finder.perl
 
 Suggest file encoding for middle european natural languages
 ===
