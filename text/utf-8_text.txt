@@ -1,0 +1,4 @@
+This is a utf-8 file.
+It does contains diacritic chars such as ä, ö, ü and ß.
+Großartig!
+

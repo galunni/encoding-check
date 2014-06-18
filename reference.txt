@@ -1,0 +1,11 @@
+echo "my text" | perl encoding-finder.perl
+
+iconv -f UTF-8 -t ISO-8859-15 <utf-8_text.txt >iso-latin-1_text.txt
+
+recode UTF-8..ISO-8859-1 file.txt
+
+
+od
+hex
+hexdump -C
+

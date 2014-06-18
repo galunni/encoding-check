@@ -1,0 +1,3 @@
+This is a simple ASCII text.
+It does not contains any character out of the 7 bit range.
+
