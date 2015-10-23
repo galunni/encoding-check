@@ -1,3 +1,9 @@
+Warning
+---
+This website uses....
+
+
+
 encoding-check/encoding-finder.perl
 
 Suggest file encoding for middle european natural languages
