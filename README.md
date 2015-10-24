@@ -8,7 +8,7 @@ This script determines the encoding system used in a file.
 Requirements
 ---
 Linux, FreeBSD, Solaris or Mac OS.
-You will need to run the script inside Terminal.
+You will need to run the script in a Terminal.
 
 
 Installation
