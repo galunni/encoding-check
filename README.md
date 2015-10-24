@@ -13,7 +13,8 @@ You will need to run the script in a Terminal.
 
 Installation
 ---
-Copy the content of the repository on a local folder or execute a git clone request.
+If you don't need the test environment only copy the file encoding-finder.perl on a local folder.
+In you want to install the all package copy the content of the repository on a local folder or execute a git clone request.
 
 
 
