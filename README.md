@@ -5,6 +5,18 @@ Suggest file encoding for middle european natural languages
 This script determines the encoding system used in a file.
 
 
+Requirements
+---
+Linux, FreeBSD, Solaris or Mac OS.
+You will need to run the script inside Terminal.
+
+
+Installation
+---
+Copy the content of the repository on a local folder or execute a git clone request.
+
+
+
 Usage
 ---
 ```sh
