@@ -68,5 +68,3 @@ NOTES:
     - utf16 will only be recognized if the begin of the file is not damaged,
       in this case the language doesn\'t play a role.
     - utf8 will also be recognized in documents written in  most european and asian languages.
-
-
