@@ -66,5 +66,5 @@ NOTES:
     - Almost every extended charset of ASCII will be interpreted as ISO-Latin-1.
     - Every Iso 8859- between 2 and 14 will be recognized as either iso-8859-1 or iso-8859-15
     - utf16 will only be recognized if the begin of the file is not damaged,
-      in this case the language doesn\'t play a role.
+      in this case the language does not play a role.
     - utf8 will also be recognized in documents written in  most european and asian languages.
