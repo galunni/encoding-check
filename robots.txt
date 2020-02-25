@@ -1,3 +1,2 @@
-abcd
 User-agent: *
 Disallow: /
