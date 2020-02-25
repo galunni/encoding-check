@@ -1,6 +1,6 @@
 encoding-check/encoding-finder.perl
 
-Suggest file encoding for middle european natural languages
+Suggest file encoding for middle european natural languages<br/>
 ===
 This script determines the encoding system used in a file.
 
