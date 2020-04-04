@@ -37,5 +37,5 @@ if($utf_16be =~ /utf16-be/i){
 }
 
 die "ERROR: $test_failed test failure\/s\n" unless($test_failed == 0);
-print "All the test have passed. Great job!\n";
+print "All tests passed successfully. Great job!\n";
 
